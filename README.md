@@ -1,9 +1,10 @@
 # interview_sample_projects
-#  Problem statement: Need to find average speed based on above data?
-# ------------------------------------------------------------------
 
-# Input Data:
-# ------------------------------------------------------------------
+Problem statement: Need to find average speed based on the data given below.
+------------------------------------------------------------------
+
+Input Data:
+------------------------------------------------------------------
 Duration		Speed Km/h
 ------------------------------------
 1 Minute - 4 Minute	2
@@ -13,9 +14,8 @@ Duration		Speed Km/h
 14 - 18 Minutes		5
 18 - 20 Minutes		2
 
-
-# Approach: 
-# -------------
+Approach: 
+-------------
 1. First get the distancetravelled based on speed and time 
 2. Calculate Total Distance and Total Speed
 3. Then calculate avg speed.
@@ -27,8 +27,6 @@ TotalTimeTaken = Subtract the lower range from upper range Duration and then sum
 
 To find average speed based on duration, you can use the formula:           
 AverageSpeed = TotalDistanceTraveled / TotalTimeTaken
-
-	
 
 Duration	Speed Km/h	distance	Total Distance	Total Time	Avg Speed
 3		2		6		80		19		4.2105263157894735

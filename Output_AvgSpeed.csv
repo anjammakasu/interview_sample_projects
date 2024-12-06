@@ -1,0 +1,7 @@
+,Duration,Speed Km/h,Duration_lower,Duration_upper,Duration_lower_range,Duration_upper_range,Time,Distance,Total_Distance,Total_Time_Taken,Average_Speed
+0,1 Minute - 4 Minute,2,1 Minute , 4 Minute,1,4,3,6,80,19,4.2105263157894735
+1,4 Minute - 7 Minutes,4,4 Minute , 7 Minutes,4,7,3,12,80,19,4.2105263157894735
+2,7 Minute - 11 Minute,5,7 Minute , 11 Minute,7,11,4,20,80,19,4.2105263157894735
+3,11 - 14 Minute,6,11 , 14 Minute,11,14,3,18,80,19,4.2105263157894735
+4,14 - 18 Minutes,5,14 , 18 Minutes,14,18,4,20,80,19,4.2105263157894735
+5,18 - 20 Minutes,2,18 , 20 Minutes,18,20,2,4,80,19,4.2105263157894735

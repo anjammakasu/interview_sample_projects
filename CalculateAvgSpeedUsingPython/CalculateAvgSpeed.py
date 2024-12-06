@@ -1,7 +1,8 @@
 import pandas as pd
 
 # Read data from input excel file
-data = pd.read_excel(r'C:\Users\kasua\OneDrive - Hewlett Packard Enterprise\DEV\SampleProjects\General\Input_SpeedandDistance.xlsx')
+# 'Place your .xlsx file path here'
+data = pd.read_excel(r'C:\Users\xxxx\General\Input_SpeedandDistance.xlsx')
 
 # Split the duration range to its lower and upper values
 data['Duration_lower'] = data['Duration'].map(lambda x:x.split('-')[0])
